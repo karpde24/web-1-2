@@ -1,6 +1,6 @@
 # Git repository with labs 1 and 2
 
-Simle landing page according to design (Variant 7).
+Simple landing page according to design from Figma (Variant 7).
 For second make the design with responsive and animation.
 
 ## Design
